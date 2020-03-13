@@ -5,17 +5,18 @@
 US Accidents
 
 
-Questions to ask from the Data
+Questions to ask from the Data.
 
-Severity of accidents vs. 
 
-Road conditions vs. Number of accidents
 
-Time of day vs. Number of accidents
+Severity of accidents vs. Road conditions and Number of Accidents.
 
-Number of accidents vs. weather conditions
+Time of day vs. Number of accidents.
 
-Clusters of accidents across Texas
+Number of accidents vs. weather conditions.
+
+Clusters of accidents across Texas.
+
 
 
 
