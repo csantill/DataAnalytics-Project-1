@@ -16,8 +16,11 @@ Clusters of accidents across country
 Team Members
 
 Bianca Hernandez
-Neil Hsu
+
+Neil Hsu 
+
 Ningning Mussomeli
+
 Carlos Santillan
 
 
