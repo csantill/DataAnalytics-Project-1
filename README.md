@@ -5,29 +5,24 @@
 US Accidents
 
 
-Questions to ask from the Data
+Questions to ask from the Data.
 
-Severity of accidents vs. 
+We prepose to ask the data the following questions:
 
-Road conditions vs. Number of accidents
+1. Severity of accidents vs. Road conditions and Number of Accidents.
 
-Time of day vs. Number of accidents
+2. Time of day vs. Number of accidents.
 
-Number of accidents vs. weather conditions
+3. Number of accidents vs. weather conditions.
 
-Clusters of accidents across Texas
+4. Clusters of accidents across Texas.
+
 
 
 
 Team Members
 
-Bianca Hernandez
-
-Neil Hsu 
-
-Ningning Mussomeli
-
-Carlos Santillan
+Bianca Hernandez | Neil Hsu | Ningning Mussomeli | Carlos Santillan
 
 
 Data Sources:
