@@ -4,10 +4,9 @@
 ##
 US Accidents
 
-
 Questions to ask from the Data.
 
-We prepose to ask the data the following questions:
+We propose to ask the data the following questions:
 
 1. Severity of accidents vs. Road conditions and Number of Accidents.
 
@@ -18,19 +17,22 @@ We prepose to ask the data the following questions:
 4. Clusters of accidents across Texas.
 
 
-
-
 Team Members
 
 Bianca Hernandez | Neil Hsu | Ningning Mussomeli | Carlos Santillan
 
 
+
 Data Sources:
 
 https://www.kaggle.com/sobhanmoosavi/us-accidents
+https://smoosavi.org/datasets/us_accidents
+
 
 Description
-This is a countrywide car accident dataset, which covers 49 states of the United States. The data is collected from February 2016 to December 2019, using several data providers, including two APIs that provide streaming traffic incident data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 3.0 million accident records in this dataset. Check here to learn more about this dataset.
+This is a countrywide car accident dataset, which covers 49 states of the United States. The data is collected from February 2016 to December 2019, using several data providers, including two APIs that provide streaming traffic incident data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 3.0 million accident records in this dataset. Check [here](https://smoosavi.org/datasets/us_accidents) to learn more about this dataset.
+
+
 
 Acknowledgements
 Please cite the following papers if you use this dataset:
