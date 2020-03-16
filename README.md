@@ -25,8 +25,8 @@ Bianca Hernandez | Neil Hsu | Ningning Mussomeli | Carlos Santillan
 
 Data Sources:
 
-https://www.kaggle.com/sobhanmoosavi/us-accidents
-https://smoosavi.org/datasets/us_accidents
+* https://www.kaggle.com/sobhanmoosavi/us-accidents
+* https://smoosavi.org/datasets/us_accidents
 
 
 Description
