@@ -21,6 +21,9 @@ Team Members
 
 Bianca Hernandez | Neil Hsu | Ningning Mussomeli | Carlos Santillan
 
+Presentation :
+
+https://docs.google.com/presentation/d/1YMTH1lKwpTFn9V0Cp02Ze-_X-BKAQexsjqoTddlvkkI/edit?usp=sharing
 
 
 Data Sources:
